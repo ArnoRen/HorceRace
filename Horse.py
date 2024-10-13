@@ -1,4 +1,4 @@
-def test():
+def testhorse():
     print("Horse Working.")
 
 class Horse:

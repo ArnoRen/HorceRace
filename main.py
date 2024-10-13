@@ -1,1 +1,3 @@
 import Horse
+
+Horse.testhorse()
